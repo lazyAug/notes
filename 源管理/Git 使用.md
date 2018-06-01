@@ -18,7 +18,7 @@
 
 2. smartGit破解：
 
-   * windows+R：输入%APPDATA%\syntevo\SmartGit\查找，或直接输入地址在文件夹栏输入![952771-20160927145001860-689017113](/Users/jun/Documents/notes/源管理/images/952771-20160927145001860-689017113.png)
+   * windows+R：输入%APPDATA%\syntevo\SmartGit\查找，或直接输入地址在文件夹栏输入![952771-20160927145001860-689017113](https://github.com/lazyAug/notes/blob/master/源管理/images/952771-20160927145001860-689017113.png)
 
      ![952771-20160927145151547-1113083547](/Users/jun/Documents/notes/源管理/images/952771-20160927145151547-1113083547.png)
 
